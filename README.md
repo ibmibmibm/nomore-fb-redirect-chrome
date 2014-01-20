@@ -19,3 +19,6 @@ Following guides from [Google Developers](http://developer.chrome.com/extensions
 # Contribution
 
 Just send a pull request and mention me (@ibmibmibm) on comment of pull request.
+
+# License
+This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.
